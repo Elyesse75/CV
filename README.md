@@ -30,3 +30,8 @@ Compétences en SISR
 -RGPD
 -Les agents économiques
 
+### Langues
+- Français
+- Anglais
+  
+
