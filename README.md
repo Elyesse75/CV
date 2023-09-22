@@ -6,7 +6,7 @@ Compétences en SISR
 
 
 ### Développement
-- SQL
+-SQL
 -CSS
 -HTML
 -Python
