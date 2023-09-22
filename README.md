@@ -1,11 +1,11 @@
-# CV
+ # CV
 CV de El Yesse ATBA étudiant Lycée Turgot BTS Informatique Cybersécurité
-## Compétences
+ ## Compétences
 Compétences en SISR
-###Gestion de projet
+ ###Gestion de projet
 
 
-###Développement
+ ###Développement
 -SQL
 -CSS
 -HTML
