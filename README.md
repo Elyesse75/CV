@@ -10,20 +10,22 @@ Compétences en SISR
 -CSS
 -HTML
 -Python
+-PHP
 
 ### Système 
--Windows
--Linux
+- Administration Windows
+- Administration Linux
 
 ### Virtualisation
-
+- VirtualBox
 
 ### Réseau
 -Cisco Packet Tracer
 -Cisco Networking Essentials
 
 ### Cybersécurité
--Rootme
+- RGPD
+- Identité Numérique
 
 ### Economie Droit Management
 -RGPD
