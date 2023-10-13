@@ -1,5 +1,6 @@
 # CV
 # El Yesse ATBA
+Étudiant en BTS SIO au lycée Turgot
 ## Compétences
 Compétences en SISR
 
