@@ -6,11 +6,11 @@ Compétences en SISR
 
 
 ### Développement
--SQL
--CSS
--HTML
--Python
--PHP
+- SQL
+- CSS
+- HTML
+- Python
+- PHP
 
 ### Système 
 - Administration Windows
@@ -20,16 +20,15 @@ Compétences en SISR
 - VirtualBox
 
 ### Réseau
--Cisco Packet Tracer
--Cisco Networking Essentials
+- Cisco Packet Tracer
+- Cisco Networking Essentials
 
 ### Cybersécurité
 - RGPD
 - Identité Numérique
 
 ### Economie Droit Management
--RGPD
--Les agents économiques
+- Les agents économiques
 
 ### Langues
 - Français
