@@ -2,8 +2,6 @@
 # El Yesse ATBA
 ## Compétences
 Compétences en SISR
-### Gestion de projet
-
 
 ### Développement
 - SQL
