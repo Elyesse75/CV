@@ -1,8 +1,13 @@
 # CV
 # El Yesse ATBA
 Étudiant en BTS SIO au lycée Turgot
-## Compétences
-Compétences en SISR
+Je recherche un stage en informatique afin de gagner en éxperience
+## Savoir-être
+- Ponctuel
+- Sérieux
+- Compétences en travail d'équipe
+- Implication
+- Respect de chaque délai
 
 ### Développement
 - SQL
