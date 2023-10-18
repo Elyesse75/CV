@@ -1,6 +1,7 @@
 # CV
 # El Yesse ATBA
 Étudiant en BTS SIO au lycée Turgot
+
 Je recherche un stage en informatique afin de gagner en éxperience
 ## Savoir-être
 - Ponctuel
