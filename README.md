@@ -10,6 +10,11 @@ Je recherche un stage en informatique afin de gagner en éxperience
 - Implication
 - Respect de chaque délai
 
+## Diplômes
+- Brevet Mention Assez Bien
+- BAC STMG Mention Assez Bien
+- Certification PIX
+
 ### Développement
 - SQL
 - CSS
