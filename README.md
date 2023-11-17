@@ -12,8 +12,8 @@ Je recherche un stage en informatique afin de gagner en éxperience
 - Respect de chaque délai
 
 ### Diplômes et certifications
-Cisco Packet Tracer
-Examen Cisco Packet Tracer
+- Cisco Packet Tracer
+- Examen Cisco Packet Tracer
 - Brevet Mention Assez Bien
 - BAC STMG Mention Assez Bien
 - Certification PIX (426 points)
@@ -33,14 +33,14 @@ Examen Cisco Packet Tracer
 ### Système 
 - Administration Windows
 - Administration Linux :
--- Bash
+- Bash
 
 ### Virtualisation
 - VirtualBox
 
 ### Réseau
 - Cisco Packet Tracer
-- Cisco Networking Essentials
+- Cisco Networking Basics
 
 ### Cybersécurité
 - RGPD
