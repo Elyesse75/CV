@@ -13,7 +13,7 @@ Je recherche un stage en informatique afin de gagner en éxperience
 ### Diplômes
 - Brevet Mention Assez Bien
 - BAC STMG Mention Assez Bien
-- Certification PIX
+- Certification PIX (426 points)
 
 ### Développement
 - SQL
@@ -22,6 +22,7 @@ Je recherche un stage en informatique afin de gagner en éxperience
 - Python
 - PHP
 - Github
+- Bootstrap
 
 ### Système 
 - Administration Windows
@@ -40,6 +41,7 @@ Je recherche un stage en informatique afin de gagner en éxperience
 
 ### Economie Droit Management
 - Les agents économiques
+- Les contrats
 
 ### Langues
 - Français
