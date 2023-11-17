@@ -32,8 +32,7 @@ Je recherche un stage en informatique afin de gagner en éxperience
 
 ### Système 
 - Administration Windows
-- Administration Linux :
-- Bash
+- Administration Linux : Bash
 
 ### Virtualisation
 - VirtualBox
