@@ -1,3 +1,4 @@
+
 # CV
 # El Yesse ATBA
 Étudiant en BTS SIO au lycée Turgot
@@ -10,7 +11,9 @@ Je recherche un stage en informatique afin de gagner en éxperience
 - Implication
 - Respect de chaque délai
 
-### Diplômes
+### Diplômes et certifications
+Cisco Packet Tracer
+Examen Cisco Packet Tracer
 - Brevet Mention Assez Bien
 - BAC STMG Mention Assez Bien
 - Certification PIX (426 points)
@@ -23,10 +26,14 @@ Je recherche un stage en informatique afin de gagner en éxperience
 - PHP
 - Github
 - Bootstrap
+- Powershell
+- Laragon
+- Visual Studio Code
 
 ### Système 
 - Administration Windows
-- Administration Linux
+- Administration Linux :
+-- Bash
 
 ### Virtualisation
 - VirtualBox
