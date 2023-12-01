@@ -14,9 +14,9 @@ Je recherche un stage en informatique afin de gagner en éxperience
 ### Diplômes et certifications
 - Cisco Packet Tracer
 - Examen Cisco Packet Tracer
-- Brevet Mention Assez Bien
 - BAC STMG Mention Assez Bien
-- Certification PIX (426 points)
+- Brevet Mention Assez Bien
+- Certification PIX
 
 ### Développement
 - SQL
@@ -44,10 +44,12 @@ Je recherche un stage en informatique afin de gagner en éxperience
 ### Cybersécurité
 - RGPD
 - Identité Numérique
+- Sensibilisation utilisateurs
 
 ### Economie Droit Management
 - Les agents économiques
 - Les contrats
+
 
 ### Langues
 - Français
